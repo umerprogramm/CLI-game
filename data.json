@@ -1,0 +1,18 @@
+﻿{
+"ques_1":{
+    "explanation" : "Get the First element in the array 💕 [💕,💓,😍]",
+    "option_1" : "array[0]",
+    "option_2" : "array.[0]",
+    "option_3" : "array.[1]"
+},
+"ques_2":{
+    "explanation" : "How to code the number in the tuple t = (1, 2, 4, 5, 4, 1, 2,1 ,1)",
+    "option_1" : "type the code\n"
+
+},
+"ques_3" : {
+    "expalanation" : "thisset = {apple, banana, cherry}  print(banana in thisset) what will be the output ?",
+    "option_1" : "Flase",
+    "option_2" : "True"
+}
+}
